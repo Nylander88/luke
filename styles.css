@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p,
+li,
+h1 {
+    color: purple;
+}
+
+h1 {
+    color: pink;
+}
+
+body {
+    background-color: black;
+}
